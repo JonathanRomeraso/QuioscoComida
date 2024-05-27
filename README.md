@@ -14,3 +14,4 @@
 6. 26/05/2024 - Product Card finalizado destacando la categoria en el slidebar  *17:12*
 7. 26/05/2024 - Creación del detalle del pedido pudiendo eliminar y agregar desde esta parte, sin necesidad de presionar el botón del producto, además de establecer el mínimo y máximo a pedir  *17:51*
 8. 26/05/2024 - Eliminar pedido y calcular el total de la orden  *20:00*
+9. 26/05/2024 - Validaciones en el formulario en el lado usuario y en el lado del servidor, limpieza de datos y mensaje de error y confirmación  *21:00*
