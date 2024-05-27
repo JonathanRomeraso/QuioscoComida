@@ -12,3 +12,4 @@
 4. 26/05/2024 - Agregar datos de prueba en la base de datos con ayuda de prisma, modificando el package_json  *15:48*
 5. 26/05/2024 - SideBar con imágenes de las categorías Obtenidas de la base de datos  *16:28*
 6. 26/05/2024 - Product Card finalizado destacando la categoria en el slidebar  *17:12*
+7. 26/05/2024 - Creación del detalle del pedido pudiendo eliminar y agregar desde esta parte, sin necesidad de presionar el botón del producto, además de establecer el mínimo y máximo a pedir  *17:51*
