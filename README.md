@@ -20,3 +20,4 @@
 10. 30/05/2024 - Creación de la vista de las ordenes hechas obteniendo de la base de datos los pedidos pendientes y mostrarlos en pantalla. *20:48* -- **US-6**
 11. 30/05/2024 - Al marcar como completada la orden esta deja de ser visible en la pantalla de pedidos pendientes y en la base de datos se marca como completada y se agrega la fecha a la base de datos. *21:08* -- **US-7**
 11. 30/05/2024 - Al marcar como completada la orden esta es visible en la pantalla de pedidos completados teniendo un limite máximo de cinco y se actualiza de manera automática sin necesidad de refrescar por completo la pagina. *21:38* -- **US-8**
+11. 30/05/2024 - Vista de todos los productos disponibles ordenados en paginas de diez productos, pudiendo cambiar entre paginas seleccionando el número de la pagina o bien con un botón de anterior y siguiente. *22:14* -- **US-8**
