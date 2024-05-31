@@ -18,3 +18,4 @@
 9. 26/05/2024 - Validaciones en el formulario en el lado usuario y en el lado del servidor, limpieza de datos y mensaje de error y confirmación  *21:00* -- **US-5**
 ### Release 2
 10. 30/05/2024 - Creación de la vista de las ordenes hechas obteniendo de la base de datos los pedidos pendientes y mostrarlos en pantalla. *20:48* -- **US-6**
+11. 30/05/2024 - Al marcar como completada la orden esta deja de aparecer en la pantalla de pedidos pendientes y en la base de datos se marca como completada y se agrega la fecha a la base de datos. *21:08* -- **US-7**

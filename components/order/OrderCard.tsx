@@ -1,3 +1,4 @@
+import { completeOrder } from "@/actions/complete-order-action"
 import { OrderWithProducts } from "@/src/types"
 import { formatCurrency } from "@/src/utils"
 
@@ -33,7 +34,7 @@ export default function OrderCard({ order }: OrderCardProps) {
                 </div>
             </dl>
 
-            <form>
+            <form action={completeOrder}>
                 <input 
                     type="hidden"
                     value={order.id}
