@@ -21,13 +21,13 @@ export const OrderIdSchema = z.object({
                 .refine( value => value > 0, {message: 'Hay errores'} )
 })
 
-/*
+
 export const SearchSchema = z.object({
     search: z.string()
                 .trim()
                 .min(1, {message: 'La búsqueda no puede ir vacia'})
 })
-
+/*
 export const ProductSchema = z.object({
     name: z.string()
         .trim()
