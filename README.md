@@ -23,4 +23,5 @@
 13. 30/05/2024 - Lista de todos los productos disponibles ordenados en paginas de diez productos, pudiendo cambiar entre paginas seleccionando el número de la pagina o bien con un botón de anterior y siguiente. *22:14* -- **US-9**
 ### Release 3
 14. 31/05/2024 - Filtro de búsqueda por medio de un input de tipo texto, que permite hacer consultas a la base de datos y listar productos que coincidan con la búsqueda *16:48* -- **US-13**
-15. 31/05/2024 - Formulario para agregar productos con imágenes y registrarlos en la base de datos y mostrarlos en la lista de productos y en el product card *16:48* -- **US-10**
+15. 31/05/2024 - Formulario para agregar productos con imágenes y registrarlos en la base de datos y mostrarlos en la lista de productos y en el product card *17:48* -- **US-10**
+16. 31/05/2024 - Formulario para editar productos con imágenes y actualizar los registros en la base de datos y mostrarlos actualizados en la lista de productos y en el product card *18:20* -- **US-10**
