@@ -25,3 +25,4 @@
 14. 31/05/2024 - Filtro de búsqueda por medio de un input de tipo texto, que permite hacer consultas a la base de datos y listar productos que coincidan con la búsqueda *16:48* -- **US-13**
 15. 31/05/2024 - Formulario para agregar productos con imágenes y registrarlos en la base de datos y mostrarlos en la lista de productos y en el product card *17:48* -- **US-10**
 16. 31/05/2024 - Formulario para editar productos con imágenes y actualizar los registros en la base de datos y mostrarlos actualizados en la lista de productos y en el product card *18:20* -- **US-10**
+17. 31/05/2024 - Se añadio la funcionalidad de poder eliminar productos -- **US-14** 
